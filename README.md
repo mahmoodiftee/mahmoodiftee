@@ -1,4 +1,4 @@
-![Excited Coder GIF](https://im2.ezgif.com/tmp/ezgif-2-07feb547d5.gif)
+<img src="https://im2.ezgif.com/tmp/ezgif-2-07feb547d5.gif" alt="Excited Coder GIF" width="100%">
 
 👋 Hey, I'm  Mahmood Iftee, a MERN stack developer on a perpetual coding adventure!  I thrive in the MERN (MongoDB, Express.js, React, Node.js) ecosystem, turning concepts into interactive and scalable applications. Excitement for me is waking up to new challenges and technologies every day. I'm on a mission to learn something new every day. Currently obsessed with [Next.js](https://nextjs.org/), eager to integrate it into my tech toolkit.
 
