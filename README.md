@@ -1,3 +1,5 @@
+👋 Hey, I'm  Mahmood Iftee, a MERN stack developer on a perpetual coding adventure!  I thrive in the MERN (MongoDB, Express.js, React, Node.js) ecosystem, turning concepts into interactive and scalable applications. Excitement for me is waking up to new challenges and technologies every day. I'm on a mission to learn something new every day. Currently obsessed with [Next.js](https://nextjs.org/), eager to integrate it into my tech toolkit.
+
 - 🔭 I’m currently working on [BOOK UNIVERSE](https://github.com/mahmoodiftee/BOOK_UNIVERSE)
 - 🌱 I’m currently learning **Next.js, GSAP**
 - 👨‍💻 All of my projects are available [here](https://github.com/mahmoodiftee?tab=repositories)
