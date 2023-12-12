@@ -1,7 +1,4 @@
-<div style="width: 100%; overflow: hidden;">
-  <img src="https://i.ibb.co/0GTp52Q/c10a3390-b8a4-425d-9358-66b84ee11988.gif" alt="Alt text" style="width: 100%; object-fit: cover;">
-</div>
-
+<img src="https://i.ibb.co/VV2tLKX/Group-2.png" alt="Alt text">
 👋 Hey, I'm  Mahmood Iftee, a MERN stack developer on a perpetual coding adventure!  I thrive in the MERN (MongoDB, Express.js, React, Node.js) ecosystem, turning concepts into interactive and scalable applications. Excitement for me is waking up to new challenges and technologies every day. I'm on a mission to learn something new every day. Currently obsessed with [Next.js](https://nextjs.org/), eager to integrate it into my tech toolkit.
 
 - 🔭 I’m currently working on [BOOK UNIVERSE](https://github.com/mahmoodiftee/BOOK_UNIVERSE)
