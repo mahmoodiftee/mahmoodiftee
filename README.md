@@ -1,5 +1,4 @@
 <img src="https://i.ibb.co/VV2tLKX/Group-2.png" alt="Alt text">
-👋 Hey, I'm  Mahmood Iftee, a MERN stack developer on a perpetual coding adventure!  I thrive in the MERN (MongoDB, Express.js, React, Node.js) ecosystem, turning concepts into interactive and scalable applications. Excitement for me is waking up to new challenges and technologies every day. I'm on a mission to learn something new every day. Currently obsessed with [Next.js](https://nextjs.org/), eager to integrate it into my tech toolkit.
 
 - 🔭 I’m currently working on [PetHouse](https://github.com/mahmoodiftee/PetHouse)
 - 🌱 I’m currently learning **Next.js, TypeScript, Gsap, LocomotiveJS**
