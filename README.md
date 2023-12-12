@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/PcrBND3/Untitled-Made-with-Flex-Clip.gif" height:300 alt="Alt text">
+<img src="https://i.ibb.co/H4Q2MDz/1.gif" alt="Alt text">
 
 👋 Hey, I'm  Mahmood Iftee, a MERN stack developer on a perpetual coding adventure!  I thrive in the MERN (MongoDB, Express.js, React, Node.js) ecosystem, turning concepts into interactive and scalable applications. Excitement for me is waking up to new challenges and technologies every day. I'm on a mission to learn something new every day. Currently obsessed with [Next.js](https://nextjs.org/), eager to integrate it into my tech toolkit.
 
