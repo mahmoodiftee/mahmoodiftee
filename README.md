@@ -20,4 +20,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,tailwind,bootstrap,materialui,react,nodejs,express,mongodb,firebase,c,cpp,ai,ps,pr)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoodiftee&theme=dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoodiftee&theme=dark&hide_border=true&card_width=820)](https://git.io/streak-stats)
