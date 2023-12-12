@@ -21,22 +21,9 @@
   <a href="https://www.behance.net/mahmoodiftee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hjhjh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-[![Material-UI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![AI](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
-[![Premiere Pro](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
+<h3 align="left">Languages and Tools I work with:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,tailwind,bootstrap,materialui,react,nodejs,express,mongodb,firebase,c,cpp,ai,ps,pr)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodiftee&show_icons=true&locale=en&layout=compact" alt="mahmoodiftee" /></p>
 
