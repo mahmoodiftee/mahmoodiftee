@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, Gsap, LocomotiveJS**
 - 👨‍💻 All of my projects are available [here](https://github.com/mahmoodiftee?tab=repositories)
 - 💬 Ask me about: **Javascript, React, Express.js, MongoDB, TailwindCSS**
-- 📫 How to reach me: mahmoodiftee@gmail.com
+- 📫 How to reach me? mahmoodiftee@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoodiftee&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoodiftee" /> </p>
 
