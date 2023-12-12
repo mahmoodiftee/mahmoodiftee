@@ -13,9 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/mahmood.iftee00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmood.iftee00" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/iftee__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iftee__" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23070505/mahmood-iftee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23070505/mahmood-iftee" height="30" width="40" /></a>
+  <a href="https://medium.com/@mahmoodiftee" target="blank"><img align="center" src="https://i.ibb.co/6JNkS9R/medium-logo-icon-189223.png" alt="@mahmoodiftee" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/mahmood-iftee-90524317b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jgkhjg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mahmood.iftee00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmood.iftee00" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iftee__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iftee__" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23070505/mahmood-iftee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23070505/mahmood-iftee" height="30" width="40" /></a>
+  <a href="https://www.behance.net/mahmoodiftee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hjhjh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
