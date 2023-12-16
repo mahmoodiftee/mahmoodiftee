@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available [here](https://github.com/mahmoodiftee?tab=repositories)
 - 💬 Ask me about: **Javascript, React, TailwindCSS**
 - 📫 How to reach me? mahmoodiftee@gmail.com
-
+- 💻 [Portfolio](https://mahmoodiftee-resume.web.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://medium.com/@mahmoodiftee" target="blank"><img align="center" src="https://i.ibb.co/6JNkS9R/medium-logo-icon-189223.png" alt="@mahmoodiftee" height="40" width="40" /></a>
