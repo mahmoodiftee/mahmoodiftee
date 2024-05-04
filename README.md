@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [PetHouse](https://github.com/mahmoodiftee/PetHouse)
 - 🌱 I’m currently learning **Next.js, TypeScript, Gsap, LocomotiveJS**
 - 👨‍💻 All of my projects are available [here](https://github.com/mahmoodiftee?tab=repositories)
-- 💬 Ask me about: **Javascript, React, TailwindCSS**
+- 💬 Ask me about: **React, Javascript, TailwindCSS**
 - 📫 How to reach me? mahmoodiftee@gmail.com
 - 💻 [Portfolio](https://mahmoodiftee-resume.web.app/)
 <h3 align="left">Connect with me:</h3>
