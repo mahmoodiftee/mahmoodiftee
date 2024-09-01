@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/VV2tLKX/Group-2.png" alt="Alt text">
 
 - 🔭 I’m currently working on [PetHouse](https://github.com/mahmoodiftee/PetHouse)
-- 🌱 I’m currently learning **Next.js, TypeScript, Gsap, LocomotiveJS**
+- 🌱 I’m currently learning **Redux, TypeScript, Gsap, LocomotiveJS, Framer-motion**
 - 👨‍💻 All of my projects are available [here](https://github.com/mahmoodiftee?tab=repositories)
 - 💬 Ask me about: **React, Javascript, TailwindCSS**
 - 📫 How to reach me? mahmoodiftee@gmail.com
