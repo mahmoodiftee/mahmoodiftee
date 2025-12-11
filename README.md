@@ -8,6 +8,7 @@
 - 💬 Ask me about: **React, Next.js, JavaScript, Express**
 - 📫 How to reach me? mahmoodiftee@gmail.com
 - 💻 [Portfolio](https://mahmoodiftee.vercel.app/)
+- 📄 [Resume](https://drive.google.com/file/d/19JB_ksUwGstwLzTKqh98dUfbTI2qrUEL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
