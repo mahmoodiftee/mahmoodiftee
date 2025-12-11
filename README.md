@@ -26,9 +26,9 @@
 ## GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodiftee&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&card_width=820" alt="GitHub Streak Stats" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=mahmoodiftee&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&card_width=820](https://github-readme-streak-stats.herokuapp.com?user=mahmoodiftee&theme=dark&hide_border=true)" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/mahmoodiftee">mahmoodiftee</a></p>
+<!-- <p align="center">⭐️ From <a href="https://github.com/mahmoodiftee">mahmoodiftee</a></p> -->
