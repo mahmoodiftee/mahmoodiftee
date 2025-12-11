@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools I work with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,,vue,php,nodejs,express,laravel,mysql,postgres,mongodb,supabase,appwrite,redis,docker,git,github,c,cpp,firebase,tailwind,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,php,nodejs,express,laravel,mysql,postgres,mongodb,supabase,appwrite,redis,docker,git,github,c,cpp,firebase,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 ## GitHub Stats:
 
