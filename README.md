@@ -23,10 +23,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,php,nodejs,express,laravel,mysql,postgres,mongodb,supabase,appwrite,redis,docker,git,github,c,cpp,firebase,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
-## GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoodiftee&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
-
-<p align="center">⭐️ From <a href="https://github.com/mahmoodiftee">mahmoodiftee</a></p>
