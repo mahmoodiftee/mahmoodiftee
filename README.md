@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/VV2tLKX/Group-2.png" alt="Mahmood Iffty Banner">
+<img src="https://i.ibb.co/VV2tLKX/Group-2.png](https://i.ibb.co.com/TBVFp14J/Group-1.png" alt="Mahmood Iffty Banner">
 
 ## About Me
 
