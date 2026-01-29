@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on **Ai Model API integration** on a simple project to deep dive
 - 🌱 I'm currently learning **Microservice architecture,Scalable System Design, AI API integration on SaaS**
 - 👨‍💻 All of my projects are available [here](https://github.com/mahmoodiftee?tab=repositories)
-- 💬 Ask me about: **React, Next.js, JavaScript, Express**
+- 💬 Ask me about: **React, Next.js, JavaScript, NestJS, Express.js**
 - 📫 How to reach me? mahmoodiftee@gmail.com
 - 💻 [Portfolio](https://mahmoodiftee.vercel.app/)
 - 📄 [Resume](https://drive.google.com/file/d/19JB_ksUwGstwLzTKqh98dUfbTI2qrUEL/view?usp=sharing)
