@@ -3,7 +3,7 @@
 ## About Me
 
 - 🔭 I'm currently working on **Ai Model API integration** on a simple project to deep dive
-- 🌱 I'm currently learning **Microservice architecture, AI API integration on SaaS**
+- 🌱 I'm currently learning **Microservice architecture,Scalable System Design, AI API integration on SaaS**
 - 👨‍💻 All of my projects are available [here](https://github.com/mahmoodiftee?tab=repositories)
 - 💬 Ask me about: **React, Next.js, JavaScript, Express**
 - 📫 How to reach me? mahmoodiftee@gmail.com
